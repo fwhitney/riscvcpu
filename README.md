@@ -1,5 +1,5 @@
 # About
-My repository for my single-cycle and multi-cycle cpu implementations in Verilog!
+This is my repository for my single-cycle and multi-cycle RISC-V CPU implementations in Verilog!
 Each CPU supports the RV32I instruction set.
 The implementations are based on the diagram(s) provided in the textbook: Digital Design and Computer Architecture RISC-V Edition by Sarah L. Harris and David Harris.
 
